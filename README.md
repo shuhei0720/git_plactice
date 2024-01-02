@@ -4,4 +4,5 @@
 おはよう、Github!
 こんばんわ、Github!
 ごきげんよう、Github!
+さようなら、Github!
 
